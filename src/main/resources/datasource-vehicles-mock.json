@@ -1,0 +1,784 @@
+[
+  {
+    "owner": "Carlos",
+    "license_plate": "MIY690",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 10
+      },
+      {
+        "year": 2021,
+        "value": 18
+      },
+      {
+        "year": 2022,
+        "value": 15
+      },
+      {
+        "year": 2023,
+        "value": 19
+      }
+    ]
+  },
+  {
+    "owner": "Anna",
+    "license_plate": "ABC123",
+    "scores": [
+      {
+        "year": 2019,
+        "value": 8
+      },
+      {
+        "year": 2020,
+        "value": 15
+      },
+      {
+        "year": 2021,
+        "value": 20
+      },
+      {
+        "year": 2022,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "owner": "John",
+    "license_plate": "XYZ789",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 5
+      },
+      {
+        "year": 2022,
+        "value": 14
+      },
+      {
+        "year": 2023,
+        "value": 10
+      }
+    ]
+  },
+  {
+    "owner": "Maria",
+    "license_plate": "LMN456",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 20
+      },
+      {
+        "year": 2021,
+        "value": 25
+      },
+      {
+        "year": 2022,
+        "value": 10
+      }
+    ]
+  },
+  {
+    "owner": "Luis",
+    "license_plate": "QWE234",
+    "scores": [
+      {
+        "year": 2018,
+        "value": 12
+      },
+      {
+        "year": 2019,
+        "value": 15
+      },
+      {
+        "year": 2020,
+        "value": 18
+      },
+      {
+        "year": 2021,
+        "value": 22
+      },
+      {
+        "year": 2022,
+        "value": 17
+      }
+    ]
+  },
+  {
+    "owner": "Sofia",
+    "license_plate": "RTY567",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 11
+      },
+      {
+        "year": 2022,
+        "value": 13
+      },
+      {
+        "year": 2023,
+        "value": 16
+      }
+    ]
+  },
+  {
+    "owner": "Tom",
+    "license_plate": "ZXC890",
+    "scores": [
+      {
+        "year": 2017,
+        "value": 14
+      },
+      {
+        "year": 2018,
+        "value": 18
+      },
+      {
+        "year": 2019,
+        "value": 15
+      },
+      {
+        "year": 2020,
+        "value": 20
+      },
+      {
+        "year": 2021,
+        "value": 10
+      }
+    ]
+  },
+  {
+    "owner": "Linda",
+    "license_plate": "FGH321",
+    "scores": [
+      {
+        "year": 2018,
+        "value": 16
+      },
+      {
+        "year": 2019,
+        "value": 22
+      },
+      {
+        "year": 2020,
+        "value": 14
+      }
+    ]
+  },
+  {
+    "owner": "Jake",
+    "license_plate": "JKL654",
+    "scores": [
+      {
+        "year": 2019,
+        "value": 12
+      },
+      {
+        "year": 2020,
+        "value": 19
+      },
+      {
+        "year": 2021,
+        "value": 21
+      }
+    ]
+  },
+  {
+    "owner": "Ella",
+    "license_plate": "OPQ987",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 15
+      },
+      {
+        "year": 2022,
+        "value": 20
+      },
+      {
+        "year": 2023,
+        "value": 18
+      }
+    ]
+  },
+  {
+    "owner": "Mike",
+    "license_plate": "UVW543",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 11
+      },
+      {
+        "year": 2021,
+        "value": 9
+      },
+      {
+        "year": 2022,
+        "value": 10
+      },
+      {
+        "year": 2023,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "owner": "Nina",
+    "license_plate": "RST678",
+    "scores": [
+      {
+        "year": 2019,
+        "value": 8
+      },
+      {
+        "year": 2020,
+        "value": 14
+      },
+      {
+        "year": 2021,
+        "value": 16
+      },
+      {
+        "year": 2022,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "owner": "Ryan",
+    "license_plate": "YUI345",
+    "scores": [
+      {
+        "year": 2018,
+        "value": 7
+      },
+      {
+        "year": 2019,
+        "value": 10
+      },
+      {
+        "year": 2020,
+        "value": 13
+      },
+      {
+        "year": 2021,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Olivia",
+    "license_plate": "HJK432",
+    "scores": [
+      {
+        "year": 2017,
+        "value": 12
+      },
+      {
+        "year": 2018,
+        "value": 20
+      },
+      {
+        "year": 2019,
+        "value": 18
+      },
+      {
+        "year": 2020,
+        "value": 16
+      },
+      {
+        "year": 2021,
+        "value": 21
+      }
+    ]
+  },
+  {
+    "owner": "Ethan",
+    "license_plate": "BNM876",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 15
+      },
+      {
+        "year": 2022,
+        "value": 14
+      }
+    ]
+  },
+  {
+    "owner": "Liam",
+    "license_plate": "CDE123",
+    "scores": [
+      {
+        "year": 2016,
+        "value": 10
+      },
+      {
+        "year": 2017,
+        "value": 12
+      },
+      {
+        "year": 2018,
+        "value": 14
+      },
+      {
+        "year": 2019,
+        "value": 16
+      }
+    ]
+  },
+  {
+    "owner": "Sophia",
+    "license_plate": "QWE678",
+    "scores": [
+      {
+        "year": 2015,
+        "value": 15
+      },
+      {
+        "year": 2016,
+        "value": 18
+      },
+      {
+        "year": 2017,
+        "value": 10
+      },
+      {
+        "year": 2018,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "owner": "Oliver",
+    "license_plate": "TYU234",
+    "scores": [
+      {
+        "year": 2017,
+        "value": 22
+      },
+      {
+        "year": 2018,
+        "value": 25
+      },
+      {
+        "year": 2019,
+        "value": 10
+      }
+    ]
+  },
+  {
+    "owner": "Ava",
+    "license_plate": "GHJ456",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 11
+      },
+      {
+        "year": 2021,
+        "value": 14
+      },
+      {
+        "year": 2022,
+        "value": 19
+      }
+    ]
+  },
+  {
+    "owner": "Lucas",
+    "license_plate": "VBN789",
+    "scores": [
+      {
+        "year": 2019,
+        "value": 13
+      },
+      {
+        "year": 2020,
+        "value": 15
+      },
+      {
+        "year": 2021,
+        "value": 20
+      },
+      {
+        "year": 2022,
+        "value": 11
+      }
+    ]
+  },
+  {
+    "owner": "Mia",
+    "license_plate": "RDF678",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 8
+      },
+      {
+        "year": 2022,
+        "value": 14
+      },
+      {
+        "year": 2023,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Leo",
+    "license_plate": "TGB432",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 9
+      },
+      {
+        "year": 2021,
+        "value": 11
+      },
+      {
+        "year": 2022,
+        "value": 13
+      }
+    ]
+  },
+  {
+    "owner": "Chloe",
+    "license_plate": "YHN321",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 18
+      },
+      {
+        "year": 2022,
+        "value": 16
+      },
+      {
+        "year": 2023,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "James",
+    "license_plate": "FDS098",
+    "scores": [
+      {
+        "year": 2019,
+        "value": 14
+      },
+      {
+        "year": 2020,
+        "value": 20
+      },
+      {
+        "year": 2021,
+        "value": 25
+      }
+    ]
+  },
+  {
+    "owner": "Aria",
+    "license_plate": "WSX456",
+    "scores": [
+      {
+        "year": 2018,
+        "value": 11
+      },
+      {
+        "year": 2019,
+        "value": 12
+      },
+      {
+        "year": 2020,
+        "value": 14
+      }
+    ]
+  },
+  {
+    "owner": "Benjamin",
+    "license_plate": "OKL123",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 10
+      },
+      {
+        "year": 2021,
+        "value": 15
+      },
+      {
+        "year": 2022,
+        "value": 10
+      }
+    ]
+  },
+  {
+    "owner": "Charlotte",
+    "license_plate": "UYT567",
+    "scores": [
+      {
+        "year": 2017,
+        "value": 10
+      },
+      {
+        "year": 2018,
+        "value": 12
+      },
+      {
+        "year": 2019,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Sebastian",
+    "license_plate": "REW890",
+    "scores": [
+      {
+        "year": 2019,
+        "value": 22
+      },
+      {
+        "year": 2020,
+        "value": 18
+      },
+      {
+        "year": 2021,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Zoe",
+    "license_plate": "PLM456",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 16
+      },
+      {
+        "year": 2021,
+        "value": 18
+      },
+      {
+        "year": 2022,
+        "value": 22
+      }
+    ]
+  },
+  {
+    "owner": "Noah",
+    "license_plate": "CVB123",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 14
+      },
+      {
+        "year": 2021,
+        "value": 16
+      },
+      {
+        "year": 2022,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "owner": "Lily",
+    "license_plate": "JKL890",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 10
+      },
+      {
+        "year": 2022,
+        "value": 12
+      },
+      {
+        "year": 2023,
+        "value": 14
+      }
+    ]
+  },
+  {
+    "owner": "Evelyn",
+    "license_plate": "TYH654",
+    "scores": [
+      {
+        "year": 2022,
+        "value": 15
+      },
+      {
+        "year": 2023,
+        "value": 18
+      }
+    ]
+  },
+  {
+    "owner": "Isaac",
+    "license_plate": "FDE123",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 20
+      },
+      {
+        "year": 2021,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Emma",
+    "license_plate": "GHJ789",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 25
+      },
+      {
+        "year": 2022,
+        "value": 18
+      }
+    ]
+  },
+  {
+    "owner": "Michael",
+    "license_plate": "YUI456",
+    "scores": [
+      {
+        "year": 2018,
+        "value": 12
+      },
+      {
+        "year": 2019,
+        "value": 14
+      },
+      {
+        "year": 2020,
+        "value": 16
+      },
+      {
+        "year": 2021,
+        "value": 19
+      }
+    ]
+  },
+  {
+    "owner": "Scarlett",
+    "license_plate": "QWE789",
+    "scores": [
+      {
+        "year": 2016,
+        "value": 11
+      },
+      {
+        "year": 2017,
+        "value": 13
+      },
+      {
+        "year": 2018,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Aiden",
+    "license_plate": "RTY123",
+    "scores": [
+      {
+        "year": 2020,
+        "value": 10
+      },
+      {
+        "year": 2021,
+        "value": 12
+      },
+      {
+        "year": 2022,
+        "value": 14
+      }
+    ]
+  },
+  {
+    "owner": "Madison",
+    "license_plate": "FGH321",
+    "scores": [
+      {
+        "year": 2017,
+        "value": 8
+      },
+      {
+        "year": 2018,
+        "value": 11
+      },
+      {
+        "year": 2019,
+        "value": 13
+      },
+      {
+        "year": 2020,
+        "value": 15
+      }
+    ]
+  },
+  {
+    "owner": "Nathan",
+    "license_plate": "TRE456",
+    "scores": [
+      {
+        "year": 2021,
+        "value": 12
+      },
+      {
+        "year": 2022,
+        "value": 16
+      }
+    ]
+  },
+  {
+    "owner": "Addison",
+    "license_plate": "YHN890",
+    "scores": [
+      {
+        "year": 2018,
+        "value": 15
+      },
+      {
+        "year": 2019,
+        "value": 19
+      },
+      {
+        "year": 2020,
+        "value": 20
+      }
+    ]
+  },
+  {
+    "owner": "Samuel",
+    "license_plate": "KJI678",
+    "scores": [
+      {
+        "year": 2016,
+        "value": 10
+      },
+      {
+        "year": 2017,
+        "value": 12
+      },
+      {
+        "year": 2018,
+        "value": 15
+      }
+    ]
+  }
+]

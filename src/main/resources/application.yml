@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: vehicle
+
+azure:
+  servicebus:
+    connection-string: "${AZURE_SERVICE_BUS_ENDPOINT}"
+    topics:
+      send:
+        name: "${AZURE_SERVICE_BUS_REQUEST_TOPIC_NAME}"
+      receive:
+        name: "${AZURE_SERVICE_BUS_RESPONSE_TOPIC_NAME}"
+        subscription-name: "${AZURE_SERVICE_BUS_SUBSCRIPTION_NAME}"
