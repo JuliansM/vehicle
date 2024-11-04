@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vehicle-platform
+  labels:
+    name: vehicle-platform
+    environment: development

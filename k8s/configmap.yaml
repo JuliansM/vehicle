@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: vehicle-ms-config
+  namespace: vehicle-platform
+data:
+  JAVA_OPTS: "-Xmx1G -Xms512m -XX:+UseG1GC -XX:MaxGCPauseMillis=200"
+  AZURE_SERVICE_BUS_REQUEST_TOPIC_NAME: "request-topic"
+  AZURE_SERVICE_BUS_SUBSCRIPTION_NAME: "vehicle-subscription"
+  AZURE_SERVICE_BUS_NAMESPACE: "sb-vehicle-platform"
+  AZURE_SERVICE_BUS_RESPONSE_TOPIC_NAME: "response-topic"
+  SERVER_TOMCAT_THREADS_MAX: "200"
+  SERVER_TOMCAT_MAX_CONNECTIONS: "10000"
+  SERVER_TOMCAT_ACCEPT_COUNT: "100"
+  APPLICATION_NAME: "vehicle-ms"
